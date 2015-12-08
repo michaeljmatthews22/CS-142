@@ -1,0 +1,21 @@
+﻿Build started 11/12/2015 10:09:12 PM.
+     1>Project "c:\Users\mjm287\documents\visual studio 2013\Projects\midterm_last\midterm_last\midterm_last.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(188): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(207): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(371): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(376): warning C4805: '!=' : unsafe mix of type 'int' and type 'bool' in operation
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(409): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(502): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(515): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(517): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(319): warning C4101: 'after_word_punct' : unreferenced local variable
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(675): warning C4804: '<' : unsafe use of type 'bool' in operation
+     1>c:\users\mjm287\documents\visual studio 2013\projects\midterm_last\midterm_last\source.cpp(690): fatal error C1004: unexpected end-of-file found
+     1>Done Building Project "c:\Users\mjm287\documents\visual studio 2013\Projects\midterm_last\midterm_last\midterm_last.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.77

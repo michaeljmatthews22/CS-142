@@ -1,0 +1,6 @@
+Residential 1 400000 0 435 Lake Creek Road
+Residentail 10 200000 testthis 689 Coyote Gulch
+Maybe Not
+Commercial 0 50000000 0 .9 657 Claude Monet Drive
+Commercial 1 123456678 0 12 Van Gough Terrace
+Residential If you like Pinacolda Street

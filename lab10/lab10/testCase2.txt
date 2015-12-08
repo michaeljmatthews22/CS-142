@@ -1,0 +1,7 @@
+Residential 1 690000 1 400 Elvis Presley Lane
+Commercially apt
+Residential 0 Maybe 1 998 Red White and Blue 
+Residential 1 200000 0 900 Pele Pele Way
+Residential 2 3000000 1 800 Run Away
+Commercial 1 6667777 1 .99 2301 Yellow Street
+
